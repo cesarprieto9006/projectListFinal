@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ProjectList</string>
+    <string name="app_name">List</string>
+    <string name="search">Buscar.</string>
+    <string name="title_list">LISTA DE SIGNIFICADOS</string>
+    <string name="empty_list">SIN DATOS</string>
+    <string name="network_validate">Validar la conexion de la red"</string>
 </resources>
