@@ -10,5 +10,8 @@ class SuperAppConstants {
         // URI
         const val URI: String = "http://www.nactem.ac.uk/software/"
 
+        //EP MAIN
+        const val EP_ACROMINE:String="acromine/dictionary.py"
+
     }
 }
